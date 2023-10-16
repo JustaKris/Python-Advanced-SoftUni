@@ -3,7 +3,7 @@
   <component name="Black">
     <option name="executionMode" value="BINARY" />
     <option name="pathToExecutable" value="C:\Users\ksbon\anaconda3\Scripts\black.exe" />
-    <option name="sdkUUID" value="a751e67e-6827-4d05-8273-be166a6a5895" />
+    <option name="sdkName" value="Python 3.10 (Python-Advanced-SoftUni)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (Python-Advanced-SoftUni)" project-jdk-type="Python SDK" />
 </project>
