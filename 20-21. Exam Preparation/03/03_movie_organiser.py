@@ -7,7 +7,6 @@ def movie_organizer(*movies):
         movies_dict[genre].append(movie)
 
     sorted_movies = sorted(movies_dict.items(), key=lambda kvp: (-len(kvp[1]), kvp[0]))
-
     result = ""
     for genre, movies in sorted_movies:
         result += f"{genre} - {len(movies)}\n"
